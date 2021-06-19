@@ -1,7 +1,4 @@
 //
-//  t5-8cgfin.cpp
-//  t5-8cgfin
-//
 //  Created by 金子卓矢 on 2019/08/04.
 //  Copyright © 2019 金子卓矢. All rights reserved.
 //
